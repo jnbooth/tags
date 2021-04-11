@@ -1,4 +1,4 @@
 #!/bin/bash
 ./gen.sh
-git commit -m update
+git commit -a -m update
 git push
